@@ -1,0 +1,32 @@
+C:\Users\isip\Documents\ИСиП-202\Афанасьев Тимофей\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\bin\Debug\Расчёт заплаты.exe.config
+C:\Users\isip\Documents\ИСиП-202\Афанасьев Тимофей\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\bin\Debug\Расчёт заплаты.exe
+C:\Users\isip\Documents\ИСиП-202\Афанасьев Тимофей\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\bin\Debug\Расчёт заплаты.pdb
+C:\Users\isip\Documents\ИСиП-202\Афанасьев Тимофей\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.csproj.AssemblyReference.cache
+C:\Users\isip\Documents\ИСиП-202\Афанасьев Тимофей\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт_заплаты.Form1.resources
+C:\Users\isip\Documents\ИСиП-202\Афанасьев Тимофей\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт_заплаты.Properties.Resources.resources
+C:\Users\isip\Documents\ИСиП-202\Афанасьев Тимофей\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.csproj.GenerateResource.cache
+C:\Users\isip\Documents\ИСиП-202\Афанасьев Тимофей\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.csproj.CoreCompileInputs.cache
+C:\Users\isip\Documents\ИСиП-202\Афанасьев Тимофей\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.exe
+C:\Users\isip\Documents\ИСиП-202\Афанасьев Тимофей\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.pdb
+C:\Users\Timofey\Desktop\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\bin\Debug\Расчёт заплаты.exe.config
+C:\Users\Timofey\Desktop\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\bin\Debug\Расчёт заплаты.exe
+C:\Users\Timofey\Desktop\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\bin\Debug\Расчёт заплаты.pdb
+C:\Users\Timofey\Desktop\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.csproj.AssemblyReference.cache
+C:\Users\Timofey\Desktop\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт_заплаты.Form1.resources
+C:\Users\Timofey\Desktop\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт_заплаты.Properties.Resources.resources
+C:\Users\Timofey\Desktop\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт_заплаты.Results.resources
+C:\Users\Timofey\Desktop\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.csproj.GenerateResource.cache
+C:\Users\Timofey\Desktop\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\Desktop\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.exe
+C:\Users\Timofey\Desktop\Афанасьев работы\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.pdb
+C:\Users\Timofey\Desktop\Работы на сдачу\Расчёт заплаты\Расчёт заплаты\bin\Debug\Расчёт заплаты.exe.config
+C:\Users\Timofey\Desktop\Работы на сдачу\Расчёт заплаты\Расчёт заплаты\bin\Debug\Расчёт заплаты.exe
+C:\Users\Timofey\Desktop\Работы на сдачу\Расчёт заплаты\Расчёт заплаты\bin\Debug\Расчёт заплаты.pdb
+C:\Users\Timofey\Desktop\Работы на сдачу\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.csproj.AssemblyReference.cache
+C:\Users\Timofey\Desktop\Работы на сдачу\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт_заплаты.Form1.resources
+C:\Users\Timofey\Desktop\Работы на сдачу\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт_заплаты.Properties.Resources.resources
+C:\Users\Timofey\Desktop\Работы на сдачу\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт_заплаты.Results.resources
+C:\Users\Timofey\Desktop\Работы на сдачу\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.csproj.GenerateResource.cache
+C:\Users\Timofey\Desktop\Работы на сдачу\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\Desktop\Работы на сдачу\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.exe
+C:\Users\Timofey\Desktop\Работы на сдачу\Расчёт заплаты\Расчёт заплаты\obj\Debug\Расчёт заплаты.pdb
